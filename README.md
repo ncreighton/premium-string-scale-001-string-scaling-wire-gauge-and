@@ -1,0 +1,2 @@
+# premium-string-scale-001-string-scaling-wire-gauge-and
+Stop guessing which string gauge delivers the perfect tension for your next tuning — this Notion calculator turns your scale length and pitch into exact wire gauge recommendations.  The String Scaling Wire Gauge and Pitch Calculator eliminates the trial-and-error agony of matching string gauge to pitch and scale length. Unlike generic calculators,
